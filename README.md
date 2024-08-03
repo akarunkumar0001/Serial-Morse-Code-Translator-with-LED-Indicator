@@ -30,3 +30,6 @@ https://github.com/akarunkumar0001/Serial-Morse-Code-Translator-with-LED-Indicat
 Here is the Arduino code used in this project:
 
 https://github.com/akarunkumar0001/Serial-Morse-Code-Translator-with-LED-Indicator/blob/main/Serial-Morse-Code-Translator-with-LED-Indicator.ino
+
+## Contact
+For any questions or issues, please contact me at technocratarunkumar0001@gmail.com.
