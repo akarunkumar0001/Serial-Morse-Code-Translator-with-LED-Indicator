@@ -54,5 +54,8 @@ https://github.com/akarunkumar0001/Serial-Morse-Code-Translator-with-LED-Indicat
 **Note:**
 > Ensure that the Serial Monitor is set to "Newline" for input.
 
+## License
+This project is open-source. Feel free to use and modify it according to your needs.
+
 ## Contact
 For any questions or issues, please contact me at technocratarunkumar0001@gmail.com.
