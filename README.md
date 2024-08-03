@@ -31,5 +31,29 @@ Here is the Arduino code used in this project:
 
 https://github.com/akarunkumar0001/Serial-Morse-Code-Translator-with-LED-Indicator/blob/main/Serial-Morse-Code-Translator-with-LED-Indicator.ino
 
+## Instructions
+
+**Connect the Components:**
+
+1. Connect the LED anode (long leg) to digital pin 3 on the Arduino.
+2. Connect the LED cathode (short leg) to the GND pin on the Arduino.
+
+**Upload the Code:**
+
+1. Open the Arduino IDE.
+2. Copy and paste the code provided above into a new sketch.
+3. Select the appropriate board and port from the Tools menu.
+4. Upload the sketch to your Arduino.
+
+**Test the Project:**
+
+1. Open the Serial Monitor in the Arduino IDE (set the baud rate to 9600).
+2. Enter a word or number containing letters (A-Z) and/or digits (0-9).
+3. Observe the LED blinking according to the Morse code representation of the entered text.
+
+**Note**
+1. Ensure that the Serial Monitor is set to "Newline" for input.
+2. The LED will blink to represent dots and dashes in Morse code, with appropriate spacing between symbols and letters.
+
 ## Contact
 For any questions or issues, please contact me at technocratarunkumar0001@gmail.com.
