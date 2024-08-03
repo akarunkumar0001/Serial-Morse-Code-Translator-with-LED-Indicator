@@ -15,7 +15,7 @@ The **Serial Morse Code Translator with LED Indicator** is an Arduino-based proj
 
 A visual circuit diagram of the project is attached. The diagram illustrates the connections between the Arduino and LED. Make sure to refer to this diagram for proper setup:
 
-https://github.com/akarunkumar0001/Serial-Morse-Code-Translator-with-LED-Indicator/blob/main/Serial-Morse-Code-Translator-with-LED-Indicator.png)
+https://github.com/akarunkumar0001/Serial-Morse-Code-Translator-with-LED-Indicator/blob/main/Serial-Morse-Code-Translator-with-LED-Indicator.png
 
 
 ## Working Video
