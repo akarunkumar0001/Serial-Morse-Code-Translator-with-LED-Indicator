@@ -51,8 +51,8 @@ https://github.com/akarunkumar0001/Serial-Morse-Code-Translator-with-LED-Indicat
 2. Enter a word or number containing letters (A-Z) and/or digits (0-9).
 3. Observe the LED blinking according to the Morse code representation of the entered text.
 
-**Note**
-Ensure that the Serial Monitor is set to "Newline" for input.
+**Note:**
+> Ensure that the Serial Monitor is set to "Newline" for input.
 
 ## Contact
 For any questions or issues, please contact me at technocratarunkumar0001@gmail.com.
