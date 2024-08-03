@@ -52,8 +52,7 @@ https://github.com/akarunkumar0001/Serial-Morse-Code-Translator-with-LED-Indicat
 3. Observe the LED blinking according to the Morse code representation of the entered text.
 
 **Note**
-1. Ensure that the Serial Monitor is set to "Newline" for input.
-2. The LED will blink to represent dots and dashes in Morse code, with appropriate spacing between symbols and letters.
+Ensure that the Serial Monitor is set to "Newline" for input.
 
 ## Contact
 For any questions or issues, please contact me at technocratarunkumar0001@gmail.com.
